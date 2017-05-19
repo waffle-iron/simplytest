@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/yanniboi/simplytest.png?label=ready&title=Ready)](https://waffle.io/yanniboi/simplytest?utm_source=badge)
 simplytest.me
 =============
 
